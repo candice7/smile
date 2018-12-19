@@ -1,0 +1,5 @@
+<view class='container'>
+<text style='font-size:50rpx;'>{{joke.showapi_res_body.contentlist[16].title}}</text>
+<text>{{joke.showapi_res_body.contentlist[16].text}}</text>
+<image class='log-banner'src="/images/dance.jpg"></image>
+</view>

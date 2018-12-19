@@ -1,0 +1,12 @@
+.log-banner{
+  width:375rpx;
+  height:375rpx;
+  border-radius:50%;
+}
+
+.nav-default{
+  color:coral
+}
+.nav-hover{
+  color:gold
+}

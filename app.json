@@ -1,0 +1,30 @@
+{
+  "pages":[
+    "pages/logs/logs","pages/weekly/weekly","pages/smile/smile"
+  ],
+  "tabBar":{
+    "list":[
+      {
+        "text": "想看你笑",
+        "pagePath": "pages/logs/logs",
+        "iconPath": "images/icons/a2.jpg",
+        "selectedIconPath": "images/icons/a2.jpg"
+      },
+      {
+        "text": "每周推荐",
+        "pagePath": "pages/weekly/weekly",
+        "iconPath": "images/icons/a1.png",
+        "selectedIconPath": "images/icons/a1.png"
+      }
+    ],
+    "color":"#000",
+    "selectedColor":"#f0f" 
+  },
+
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "想看你笑",
+    "navigationBarTextStyle":"black"
+  }
+}

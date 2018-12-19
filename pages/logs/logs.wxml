@@ -1,0 +1,8 @@
+<view class='container'>
+   <image class='log-banner'
+    src="/images/smile.jpg"></image>
+   <text style='font-weight:bold; font-size:60rpx;'>想看你笑</text>
+  <navigator style='display:inline;' url='/pages/weekly/weekly' open-type="switchTab" hover-class='nav-hover' class='nav-default'>快戳我</navigator>
+   <text>今天你笑了吗？</text>
+   <text>拒绝天台，从今日笑话开始。</text>
+</view>

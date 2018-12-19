@@ -1,0 +1,7 @@
+.btn1{
+  width: 40%;
+  top: 5%;
+  color:rgb(255, 51, 0);
+  background-color:gold
+}
+

@@ -1,0 +1,8 @@
+
+<view class='container'>
+<image src='/images/t4.jpg'></image>
+<text>看我笑得多甜！</text>
+<text>{{todayjoke.comment}}</text>
+<button class="btn1" bindtap="validate">今日笑话</button>
+<text wx:if="{{todayjoke.isHighlyRecommended}}"style="font-size:16px;color:red;">强烈推荐</text>
+</view>
